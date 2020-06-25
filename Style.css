@@ -1,0 +1,80 @@
+body {
+    background-image: url(img/Math-Wal.jpg);
+    opacity: .96;
+}
+
+input[type=number],
+select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: 25px;
+   
+}
+
+input[type=textbox],
+select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    padding: 140px;
+    margin: 100px;
+    text-align: center;
+
+}
+
+footer{
+    width: 100%;
+    background-color: #323232;
+    color: #f2f2f2;
+    height: 8vh;
+    text-align: center;
+    padding-top: 5vh;
+    
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 950px) {
+
+    div {
+        border-radius: 10px;
+        background-color: #f2f2f2;
+        padding: 10px;
+        margin: 15px;
+        text-align: center;
+    }
+}
+
+
+/* T H A N K  Y O U */

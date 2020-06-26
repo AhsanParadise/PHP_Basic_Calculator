@@ -11,7 +11,7 @@ Everything is working fine except index.html is outputting the answer to site.ph
 	
 	
 
-           G o o d L u c k  from Codoxia
+                             G o o d L u c k
 
 =========================================================  ------------------->
 
